@@ -1,0 +1,13 @@
+.about {
+    height: 100px;
+    overflow: hidden;
+}
+
+.btn-wrapper {
+    margin-top: 10px;
+}
+
+.relative-element {
+    position: relative;
+    top: -80px
+}

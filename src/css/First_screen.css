@@ -1,0 +1,19 @@
+.bg-wr {
+  height: 575px;
+  width: 100%;
+  background: linear-gradient(
+    rgba(0, 0, 0, 0.25), 
+    rgba(0, 0, 0, 0.65)
+  ),url("../images/Maldives_Hotels_Resorts_LUX_Maldives_Rooms.jpg") no-repeat fixed center;
+}
+
+.jumbotron {
+  background: transparent;
+  color: #fff;
+  text-align: center;
+}
+
+.jumbotron .large {
+    font-size: 82px;
+    font-weight: 300;
+}
