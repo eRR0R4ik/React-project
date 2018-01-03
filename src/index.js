@@ -28,9 +28,9 @@ ReactDOM.render(
     </div>
     <div className="container">
         <div className="row">{
-                    data.map(function(item) {
+                    data.map(function(item, index) {
                         return <Card key={item.key} name={item.name} about={item.about} 
-                                    phone={item.phone} email={item.email} img={item.img} 
+                                    phone={item.phone} email={item.email} img={index} 
                                     greeting={item.greeting} />
                     })
                 }

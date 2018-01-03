@@ -11,3 +11,39 @@
     position: relative;
     top: -80px
 }
+
+.img-0 {
+    background: url("../images/aimia-hotel-majorca-p.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.img-1 {
+    background: url("../images/2007d6dd4ca8f4b527d19c7baaefab7e.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.img-2 {
+    background: url("../images/crystal-hotel-bodrum.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.img-3 {
+    background: url("../images/sanchaya_heronew.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.center {
+    text-align: center;
+}
+
+.booking-form {
+    margin: 70px 35px;
+}
+
+.ml-2-5 {
+    margin-left: 35px
+}
+
+.slide {
+    box-shadow: 0 0 20px black;
+}
