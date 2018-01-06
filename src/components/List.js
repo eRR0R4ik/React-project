@@ -8,7 +8,7 @@ class List extends Component {
     render() {
         let i = 1;
         return (
-            <div className="panel panel-default">
+            <div className="panel panel-default relative-element">
                 <div className="panel-heading">Panel heading</div>
                 <table className="table table-hover">
                     <thead>

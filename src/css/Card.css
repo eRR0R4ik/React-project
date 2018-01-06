@@ -32,8 +32,44 @@
     background-size: cover;
 }
 
-.center {
-    text-align: center;
+.img-4 {
+    background: url("../images/skopelos-hotels-adrina-beach.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.img-5 {
+    background: url("../images/images.jpeg") no-repeat center;
+    background-size: cover;
+}
+
+.img-6 {
+    background: url("../images/images (2).jpeg") no-repeat center;
+    background-size: cover;
+}
+
+.img-7 {
+    background: url("../images/images (1).jpeg") no-repeat center;
+    background-size: cover;
+}
+
+.img-8 {
+    background: url("../images/411049_xl.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.img-9 {
+    background: url("../images/anantara-rasananda-koh-phangan-villas-thailand-p.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.img-10 {
+    background: url("../images/hotel-nimb-exterior-copenhagen-prod.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.img-11 {
+    background: url("../images/Party-in-Planetarium-Suite-Rooftop-Terrace-e1469603819575.jpg") no-repeat center;
+    background-size: cover;
 }
 
 .booking-form {

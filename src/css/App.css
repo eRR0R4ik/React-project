@@ -1,0 +1,14 @@
+.fa-angle-double-down {
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+.arrow-animation {
+    animation: Arrow-moving infinite 1s linear;
+}
+
+@keyframes Arrow-moving {
+    0% { transform: translateY(-3px); }
+    50% { transform: translateY(1px); }
+    100% { transform: translateY(-3px); }
+  } 

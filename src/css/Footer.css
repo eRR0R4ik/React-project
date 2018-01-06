@@ -1,0 +1,22 @@
+.footer {
+    min-height: 50px;
+    background: #222222;
+    margin-top: 60px;
+    color: white;
+}
+
+.fa-copyright {
+    font-size: 13px;
+    line-height: 3.5;
+}
+
+.social i {
+    font-size: 30px;
+    padding: 10px;
+}
+
+.contacts {
+    font-size: 15px;
+    line-height: 3.3;
+    text-align: right;
+}

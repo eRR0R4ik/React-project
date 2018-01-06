@@ -6,3 +6,7 @@
     width: 100px;
     text-align: left;
 }
+
+.panel.relative-element {
+    top: -450px;
+}

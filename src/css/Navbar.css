@@ -1,23 +1,24 @@
-/* .navbar {
-    font-size: 16px;
-    padding: 15px 30px;
-    border-radius: 0;
-    margin: 0;
-    background: transparent;
-}
-.navbar-brand {
-    padding: 5px;
-    font-size: 28px;
-    line-height: 32px;
-    color: white;
-}
-
-.Nav-logo {
+.spinning-sun {
+    background: url("../images/sun-3.svg") no-repeat center;
     animation: App-logo-spin infinite 20s linear;
     height: 40px;
+    width: 40px;
+    display: inline-block;
+    float: left;
+    margin: 5px;
+    background-size: cover;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar-brand {
+    color: #FED102 !important;
+    text-shadow: 0 0 3px #fff;
 }
 
 @keyframes App-logo-spin {
     from { transform: rotate(0deg); }
     to { transform: rotate(360deg); }
-  } */
+  }
