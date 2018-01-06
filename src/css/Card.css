@@ -73,11 +73,15 @@
 }
 
 .booking-form {
-    margin: 70px 35px;
+    margin: 80px 35px;
 }
 
 .ml-2-5 {
     margin-left: 35px
+}
+
+.mt-2-5 {
+    margin-top: 35px;
 }
 
 .slide {

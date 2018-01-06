@@ -64,8 +64,8 @@ class Card extends Component {
                 <br />
                 <i>{this.props.email}</i>
                 <br />
-                <p className="btn-wrapper">
-                  <button href="" onClick={this.resetState.bind(this)} className="btn btn-default"><i className="fa fa-chevron-left"></i> Back</button>
+                <p className="btn-wrapper mt-2-5">
+                  <button onClick={this.resetState.bind(this)} className="btn btn-default"><i className="fa fa-chevron-left"></i> Back</button>
                 </p>
               </div>
           </div>
@@ -115,8 +115,8 @@ class Card extends Component {
                       <span className="sr-only">Next</span>
                     </a>
                 </div>
-                <p className="btn-wrapper ml-2-5">
-                  <button href="" onClick={this.resetState.bind(this)} className="btn btn-default"><i className="fa fa-chevron-left"></i> Back</button>
+                <p className="btn-wrapper ml-2-5 mt-2-5">
+                  <button onClick={this.resetState.bind(this)} className="btn btn-default"><i className="fa fa-chevron-left"></i> Back</button>
                 </p>
               </div>
             </div>
